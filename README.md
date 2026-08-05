@@ -1,5 +1,8 @@
 # Python Utilities
 
+**[Live demo / docs](https://freddricklogan.github.io/python-utilities/)** &nbsp;|&nbsp; [Portfolio](https://fredlogan.phd) &nbsp;|&nbsp; [All Projects](https://freddricklogan.github.io/projects/)
+
+
 Three standalone Python command-line tools for everyday tasks.
 
 ## Tools
